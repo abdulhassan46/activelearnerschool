@@ -1,0 +1,128 @@
+
+  
+  .card-title1{
+      padding-top: 130px;
+      
+  }
+  .fa-shield-alt{
+    font-size: 60px !important;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 12px;
+    padding-left: 10px;
+   
+  }
+  .fa-book-reader{
+    font-size: 60px !important;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 8px;
+    padding-left: 11px;
+  
+  }
+  
+  .fa-file-text-o{
+    font-size: 56px !important;
+    font-weight: bold;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 11px;
+    padding-left: 17px;
+  }
+  .fa-chalkboard{
+    font-size: 50px !important;
+    font-weight: bold;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 15px;
+    padding-left: 9px;
+  }
+  .fa-puzzle-piece{
+    font-size: 63px !important;
+    font-weight: bold;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 11px;
+    padding-left: 15px;
+  }
+  .fa-futbol{
+    font-size: 63px !important;
+    font-weight: bold;
+    background-color: #ffbb33;
+    color: #007E33;
+    border-radius: 60px;
+    width: 80px;
+    height: 80px;
+    padding-top: 11px;
+    padding-left: 9px;
+  }
+
+  .portfolio > div {
+    padding: 0 !important;
+  }
+  .portfolio img {
+    width: 100%;
+    height: auto;
+  }
+  @media (max-width: 480px) { 
+    .col-xs-6 { 
+      width: 100% !important; 
+    } 
+  }
+
+  
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 2px;
+    border-radius: 80%;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 2px;
+    border-radius: 80%;
+  }
+  .fa-instagram {
+    background: #ff6600;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 55px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px 2px;
+    border-radius: 80%;
+  }
+  
